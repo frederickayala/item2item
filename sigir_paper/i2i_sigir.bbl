@@ -1,0 +1,170 @@
+\begin{thebibliography}{10}
+
+\bibitem{adhikari2012unreeling}
+V.~K. Adhikari, Y.~Guo, F.~Hao, M.~Varvello, V.~Hilt, M.~Steiner, and Z.-L.
+  Zhang.
+\newblock Unreeling netflix: Understanding and improving multi-cdn movie
+  delivery.
+\newblock In {\em INFOCOM, 2012 Proceedings IEEE}, pages 1620--1628. IEEE,
+  2012.
+
+\bibitem{auer2007dbpedia}
+S.~Auer, C.~Bizer, G.~Kobilarov, J.~Lehmann, R.~Cyganiak, and Z.~Ives.
+\newblock Dbpedia: A nucleus for a web of open data.
+\newblock In {\em The semantic web}, pages 722--735. Springer, 2007.
+
+\bibitem{bennett2007netflix}
+J.~Bennett and S.~Lanning.
+\newblock The netflix prize.
+\newblock In {\em Proceedings of KDD cup and workshop}, volume 2007, page~35,
+  2007.
+
+\bibitem{besag1975statistical}
+J.~Besag.
+\newblock Statistical analysis of non-lattice data.
+\newblock {\em The statistician}, pages 179--195, 1975.
+
+\bibitem{davidson2010youtube}
+J.~Davidson, B.~Liebald, J.~Liu, P.~Nandy, T.~Van~Vleet, U.~Gargi, S.~Gupta,
+  Y.~He, M.~Lambert, B.~Livingston, et~al.
+\newblock The youtube video recommendation system.
+\newblock In {\em Proceedings of the fourth ACM conference on Recommender
+  systems}, pages 293--296. ACM, 2010.
+
+\bibitem{deshpande2004item}
+M.~Deshpande and G.~Karypis.
+\newblock Item-based top-n recommendation algorithms.
+\newblock {\em ACM Transactions on Information Systems (TOIS)}, 22(1):143--177,
+  2004.
+
+\bibitem{desrosiers2011comprehensive}
+C.~Desrosiers and G.~Karypis.
+\newblock A comprehensive survey of neighborhood-based recommendation methods.
+\newblock In {\em Recommender systems handbook}, pages 107--144. Springer,
+  2011.
+
+\bibitem{dror2012yahoo}
+G.~Dror, N.~Koenigstein, Y.~Koren, and M.~Weimer.
+\newblock The yahoo! music dataset and kdd-cup'11.
+\newblock In {\em KDD Cup}, pages 8--18, 2012.
+
+\bibitem{hammersley1971markov}
+J.~M. Hammersley and P.~Clifford.
+\newblock Markov fields on finite graphs and lattices.
+\newblock {\em seminar, unpublished}, 1971.
+
+\bibitem{hidasi2012fast}
+B.~Hidasi and D.~Tikk.
+\newblock Fast als-based tensor factorization for context-aware recommendation
+  from implicit feedback.
+\newblock In {\em Machine Learning and Knowledge Discovery in Databases}, pages
+  67--82. Springer, 2012.
+
+\bibitem{hidasi2013context}
+B.~Hidasi and D.~Tikk.
+\newblock Context-aware item-to-item recommendation within the factorization
+  framework.
+\newblock In {\em Proceedings of the 3rd Workshop on Context-awareness in
+  Retrieval and Recommendation}, pages 19--25. ACM, 2013.
+
+\bibitem{hu2008collaborative}
+Y.~Hu, Y.~Koren, and C.~Volinsky.
+\newblock Collaborative filtering for implicit feedback datasets.
+\newblock In {\em Data Mining, 2008. ICDM'08. Eighth IEEE International
+  Conference on}, pages 263--272. IEEE, 2008.
+
+\bibitem{JH}
+T.~S. Jaakkola and D.~Haussler.
+\newblock Exploiting generative models in discriminative classifiers.
+\newblock {\em Advances in neural information processing systems}, pages
+  487--493, 1999.
+
+\bibitem{Jo}
+J.~Jost.
+\newblock {\em Riemannian geometry and geometric analysis}.
+\newblock Springer, 2011.
+
+\bibitem{koenigstein2013towards}
+N.~Koenigstein and Y.~Koren.
+\newblock Towards scalable and accurate item-oriented recommendations.
+\newblock In {\em Proceedings of the 7th ACM conference on Recommender
+  systems}, pages 419--422. ACM, 2013.
+
+\bibitem{koren2009bellkor}
+Y.~Koren.
+\newblock The bellkor solution to the netflix grand prize.
+\newblock {\em Netflix prize documentation}, 81:1--10, 2009.
+
+\bibitem{koren2010factor}
+Y.~Koren.
+\newblock Factor in the neighbors: Scalable and accurate collaborative
+  filtering.
+\newblock {\em ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  4(1):1, 2010.
+
+\bibitem{amazon-recommender}
+G.~Linden, B.~Smith, and J.~York.
+\newblock Amazon.com recommendations: item-to-item collaborative filtering.
+\newblock {\em Internet Computing, IEEE}, 7(1):76--80, 2003.
+
+\bibitem{lops2011content}
+P.~Lops, M.~De~Gemmis, and G.~Semeraro.
+\newblock Content-based recommender systems: State of the art and trends.
+\newblock In {\em Recommender systems handbook}, pages 73--105. Springer, 2011.
+
+\bibitem{losch2012graph}
+U.~L{\"o}sch, S.~Bloehdorn, and A.~Rettinger.
+\newblock Graph kernels for rdf data.
+\newblock In {\em Extended Semantic Web Conference}, pages 134--148. Springer,
+  2012.
+
+\bibitem{perronnin2007fisher}
+F.~Perronnin and C.~Dance.
+\newblock {Fisher kernels on visual vocabularies for image categorization}.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition,
+  2007. CVPR'07}, pages 1--8, 2007.
+
+\bibitem{pilaszy2015neighbor}
+I.~Pil{\'a}szy, A.~Ser{\'e}ny, G.~D{\'o}zsa, B.~Hidasi, A.~S{\'a}ri, and
+  J.~Gub.
+\newblock Neighbor methods vs. matrix factorization - case studies of real-life
+  recommendations.
+\newblock {\em Invited talk at LSRS 2015 at RecSys'15}, 2015.
+
+\bibitem{rendle2010factorizing}
+S.~Rendle, C.~Freudenthaler, and L.~Schmidt-Thieme.
+\newblock Factorizing personalized markov chains for next-basket
+  recommendation.
+\newblock In {\em Proceedings of the 19th international conference on World
+  wide web}, pages 811--820. ACM, 2010.
+
+\bibitem{ricci2011introduction}
+F.~Ricci, L.~Rokach, and B.~Shapira.
+\newblock {\em Introduction to recommender systems handbook}.
+\newblock Springer, 2011.
+
+\bibitem{sarwar01item}
+B.~Sarwar, G.~Karypis, J.~Konstan, and J.~Reidl.
+\newblock Item-based collaborative filtering recommendation algorithms.
+\newblock In {\em WWW '01: Proceedings of the 10th international conference on
+  World Wide Web}, pages 285--295, New York, NY, USA, 2001. ACM Press.
+
+\bibitem{schein2002methods}
+A.~I. Schein, A.~Popescul, L.~H. Ungar, and D.~M. Pennock.
+\newblock Methods and metrics for cold-start recommendations.
+\newblock In {\em Proceedings of the 25th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  253--260. ACM, 2002.
+
+\bibitem{cencov1982}
+N.~N. \u{C}encov.
+\newblock Statistical decision rules and optimal inference.
+\newblock {\em American Mathematical Society}, 53, 1982.
+
+\bibitem{ziegler2005improving}
+C.-N. Ziegler, S.~M. McNee, J.~A. Konstan, and G.~Lausen.
+\newblock Improving recommendation lists through topic diversification.
+\newblock In {\em Proceedings of the 14th international conference on World
+  Wide Web}, pages 22--32. ACM, 2005.
+
+\end{thebibliography}

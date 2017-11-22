@@ -1,0 +1,43 @@
+[
+	{
+		"dataset": "books",
+		"location": "/data/item2item/datasets/books/BX-Book-Ratings.csv",
+		"timestamp": false,
+		"separator": ";",
+		"quote_all": true,
+		"quotechar": "\"",
+		"ratio": 0.055,
+		"create_flink": true,
+		"consider_time": false,
+		"load_training_files": true,
+		"implicit_ratings_from": 0,		
+		"training":{
+			"filter_min_support": 0,
+			"filter_max_support": 2,
+			"num_factors": "50",
+			"epochs": "25,50,75,100",
+			"learning_rate": "0.001",
+			"stop_by_likelihood": false,
+			"training_mode": "SGD",
+			"approx_condition": 1.0,
+			"max_sample": 500,
+			"alpha_sampling": 3
+		},
+		"evaluation":{
+			"filter_min_support": 0,
+			"filter_max_support": 1,
+			"percentile_n": 200,
+			"reference_size": "20",
+			"modalities": "ecp_coocurrance,cosine_coocurrance,jaccard_coocurrance,pki",
+			"fisher": true,
+			"mpr_sum_training" : true,
+			"recall_at" :  "10,20,50",
+			"dcg_at" :  "10,20,50",
+			"list_combinations" : "none",
+			"normalizations" : "without_norm",
+			"content_file" : "none",
+			"jaccard_file" : "none",
+			"content_similarity_file": "none"
+		}
+	}
+]
